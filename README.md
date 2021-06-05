@@ -1,5 +1,5 @@
 # bwa_cozy
-![Test Image 1](3DTest.png)
+![Test Image 1](https://raw.githubusercontent.com/teguhris/bwa-cozy/main/bwa-cozy.jpeg)
 A new Flutter application.
 
 ## Getting Started
